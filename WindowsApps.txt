@@ -4,3 +4,4 @@ Microsoft.XboxGamingOverlay
 Microsoft.XboxIdentityProvider
 Microsoft.XboxSpeechToTextOverlay
 Microsoft.MicrosoftSolitaireCollection
+Microsoft.MSPaint
